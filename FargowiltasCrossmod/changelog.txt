@@ -1,0 +1,4 @@
+Patch 1.2.0.12
+
+Fixed Old Duke not existing on the server in multiplayer
+Fixed Exo Mechs not dropping loot in multiplayer

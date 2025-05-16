@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hyytZnX2/vg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pearu\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Lol\\Lol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pearu\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
+    "C:\\Users\\pearu\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

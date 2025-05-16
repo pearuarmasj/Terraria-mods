@@ -1,0 +1,3 @@
+displayName = Fuck you
+author = gamer
+version = 0.1

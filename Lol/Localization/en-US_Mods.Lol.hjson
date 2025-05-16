@@ -1,0 +1,68 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	IridescentExcalibur: {
+		DisplayName: Iridescent Excalibur
+		Tooltip: Texture credit goes to some random guy on the internet. I don't know who he is, but I love him.
+	}
+
+	CanadianLumberjack: {
+		DisplayName: Canadian Lumberjack
+		Tooltip: ""
+	}
+
+	Impregnator9000: {
+		DisplayName: Impregnator9000
+		Tooltip: I am literal fucking Einstein for managing to fix this god damn fucking projectile spawn position. Even the fucking stupid ass Calamity source wasn't useful in that regard.
+	}
+
+	WaterCannon: {
+		DisplayName: Water Cannon
+		Tooltip: ""
+	}
+
+	Watergun: {
+		DisplayName: Watergun
+		Tooltip: ""
+	}
+
+	WaterBullet: {
+		DisplayName: Water Bullet
+		Tooltip: ""
+	}
+
+	MegaSponge: {
+		DisplayName: Mega Sponge
+		Tooltip: ""
+	}
+
+	WaterPhysicsTester: {
+		DisplayName: Water Physics Tester
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	CumProjectile.DisplayName: Cum Projectile
+	WaterAmmo.DisplayName: Water Ammo
+	WaterAmmo2.DisplayName: Water Ammo2
+}
+
+NPCs: {
+	Czarny: {
+		DisplayName: Czarny
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		Census.SpawnCondition: Conditions unknown
+	}
+}

@@ -1,0 +1,27 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>FargowiltasCrossmod</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Content\Calamity\Bosses\Perforators\PerforatorSpike.png" />
+    <None Remove="Content\Calamity\Bosses\Perforators\PerforatorSpikeOld.png" />
+  </ItemGroup>
+  <ItemGroup>
+	<Reference Include="CalamityMod">
+		<HintPath>Libraries/CalamityMod.dll</HintPath>
+	</Reference>
+	<Reference Include="Fargowiltas">
+		<HintPath>Libraries/Fargowiltas.dll</HintPath>
+	</Reference>
+	<Reference Include="FargowiltasSouls">
+	  <HintPath>Libraries/FargowiltasSouls.dll</HintPath>
+	</Reference>
+	<Reference Include="Luminance">
+	  <HintPath>Libraries\Luminance.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+</Project>

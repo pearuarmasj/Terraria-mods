@@ -40,12 +40,18 @@ Items: {
 		DisplayName: Water Physics Tester
 		Tooltip: ""
 	}
+
+	ExampleSimpleMinionItem: {
+		DisplayName: Example Simple Minion Item
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
 	CumProjectile.DisplayName: Cum Projectile
 	WaterAmmo.DisplayName: Water Ammo
 	WaterAmmo2.DisplayName: Water Ammo2
+	ExampleSimpleMinion.DisplayName: Example Simple Minion
 }
 
 NPCs: {
@@ -79,5 +85,12 @@ NPCs: {
 			LikeNPC_Princess: I like {NPCName}.
 			Princess_LovesNPC: I like {NPCName}.
 		}
+	}
+}
+
+Buffs: {
+	ExampleSimpleMinionBuff: {
+		DisplayName: Example Simple Minion Buff
+		Description: Mods.Lol.Buffs.ExampleSimpleMinionBuff.Description
 	}
 }

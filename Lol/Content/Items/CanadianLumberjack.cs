@@ -15,10 +15,10 @@ namespace Lol.Content.Items
             Item.damage = 50000;
             Item.axe = 50000;
             Item.DamageType = DamageClass.Default;
-            Item.width = 8;
-            Item.height = 8;
-            Item.useTime = 2;
-            Item.useAnimation = 2;
+            Item.width = 60;
+            Item.height = 60;
+            Item.useTime = 7;
+            Item.useAnimation = 7;
             Item.useStyle = ItemUseStyleID.Swing;
             Item.knockBack = 9001;
             Item.value = Item.buyPrice(silver: 1);

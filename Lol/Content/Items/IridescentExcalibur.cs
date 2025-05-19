@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 
 namespace Lol.Content.Items
-{ 
+{
 	// This is a basic item template.
 	// Please see tModLoader's ExampleMod for every other example:
 	// https://github.com/tModLoader/tModLoader/tree/stable/ExampleMod
@@ -14,10 +14,10 @@ namespace Lol.Content.Items
 		{
 			Item.damage = 50000;
 			Item.DamageType = DamageClass.Melee;
-			Item.width = 4;
-			Item.height = 4;
-			Item.useTime = 2;
-			Item.useAnimation = 2;
+			Item.width = 60;
+			Item.height = 60;
+			Item.useTime = 7;
+			Item.useAnimation = 7;
 			Item.useStyle = ItemUseStyleID.Swing;
 			Item.knockBack = 9001;
 			Item.value = Item.buyPrice(silver: 1);

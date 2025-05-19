@@ -1,0 +1,6 @@
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.csproj.AssemblyReference.cache
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.AssemblyInfoInputs.cache
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.AssemblyInfo.cs
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.csproj.CoreCompileInputs.cache
+C:\Users\pearu\Documents\My Games\Terraria\tModLoader\ModSources\Lol\obj\Debug\net8.0\Lol.sourcelink.json
